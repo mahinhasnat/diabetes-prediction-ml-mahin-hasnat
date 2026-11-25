@@ -1,4 +1,3 @@
-# diabetes-prediction-ml-mahin-hasnat
 # Diabetes Prediction System
 
 This project uses Machine Learning to predict diabetes status based on health and lifestyle information.
